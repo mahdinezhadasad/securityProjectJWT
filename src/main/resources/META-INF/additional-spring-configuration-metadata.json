@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.datassource.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.datassource.password."
+  }
+] }
